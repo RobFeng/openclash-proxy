@@ -2,3 +2,9 @@
 
 # bilibili
 DOMAIN-SUFFIX,hdslb.com
+
+# QQ
+DOMAIN-SUFFIX,qq.com
+
+# 抖音
+DOMAIN-SUFFIX,douyin.com
