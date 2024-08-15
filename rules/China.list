@@ -9,5 +9,8 @@ DOMAIN-SUFFIX,qq.com
 # 抖音
 DOMAIN-SUFFIX,douyin.com
 
+# 小米
+DOMAIN-SUFFIX,mi.com
+
 # 其他
 DOMAIN-SUFFIX,aies.cn
