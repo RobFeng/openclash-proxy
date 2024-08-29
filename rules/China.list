@@ -1,4 +1,4 @@
-# 内容: 国内 规则集
+则集
 
 # bilibili
 DOMAIN-SUFFIX,hdslb.com
@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,douyin.com
 # 小米
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,xiaomi.com
+
+# 阿里
+DOMAIN-SUFFIX,aliyun.com
 
 # 其他
 DOMAIN-SUFFIX,aies.cn
