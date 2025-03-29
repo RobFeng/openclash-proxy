@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,hdslb.com
 # QQ
 DOMAIN-SUFFIX,qq.com
 
+# 微信
+DOMAIN-SUFFIX,weixin.qq.com
+
 # 抖音
 DOMAIN-SUFFIX,douyin.com
 
